@@ -2,9 +2,9 @@
 
 ## Project setup
 
-```
-install: node v14+
+[Install node](https://nodejs.org/): v14+
 
+```
 npm install
 ```
 
